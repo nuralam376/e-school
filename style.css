@@ -80,4 +80,18 @@ p {
 	border: none;
 	background-color: white;
 }
+
 /* Courses end */
+
+/* Testimonial */
+
+#testimonial {
+	width: 60%;
+	margin: 50px auto;
+}
+
+#testimonial h2 {
+	font-weight: 800;
+	margin-bottom: 50px;
+}
+/* Testimonial end */
