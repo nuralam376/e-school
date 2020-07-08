@@ -1,0 +1,41 @@
+/* General Styles */
+p {
+	color: gray;
+}
+
+.button {
+	background-color: #21b573;
+	border: none;
+	color: white !important;
+	border-radius: 20px;
+	padding: 10px 30px !important;
+}
+
+/* General Styles end */
+
+/* Header */
+#main-header {
+	background-color: #f0fff0;
+}
+
+.nav-item {
+	padding: 10px;
+}
+.nav-item .nav-link {
+	color: black;
+}
+
+.green-text {
+	color: #21b573;
+}
+
+.orange-text {
+	color: #fc5b26;
+}
+
+#main-banner {
+	margin-top: 50px;
+	padding: 30px 50px;
+}
+
+/* Header ends */
