@@ -1,6 +1,11 @@
 /* General Styles */
+.container {
+	margin-bottom: 50px;
+}
+
 p {
 	color: gray;
+	font-size: 14px;
 }
 
 .button {
@@ -39,3 +44,18 @@ p {
 }
 
 /* Header ends */
+
+/* Icons */
+.icon {
+	background-color: #f0fff0;
+	text-align: center;
+	padding: 20px;
+	margin: 5px;
+	border-radius: 10px;
+}
+
+#students-icon {
+	box-shadow: 10px 10px 20px lightgray;
+	background-color: white;
+}
+/* Icons end */
