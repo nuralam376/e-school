@@ -54,9 +54,10 @@ p {
 	border-radius: 10px;
 }
 
-#students-icon {
+.icon:hover {
 	box-shadow: 10px 10px 20px lightgray;
 	background-color: white;
+	font-size: 40px;
 }
 /* Icons end */
 
