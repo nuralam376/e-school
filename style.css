@@ -59,3 +59,25 @@ p {
 	background-color: white;
 }
 /* Icons end */
+
+/* Courses */
+
+#courses {
+	margin-top: 150px;
+}
+#courses h2 {
+	color: #413960;
+	margin-bottom: 50px;
+}
+
+#courses .card {
+	border: none;
+	box-shadow: 10px 10px 20px lightgray;
+	padding: 20px;
+}
+
+#courses .card-footer {
+	border: none;
+	background-color: white;
+}
+/* Courses end */
