@@ -95,3 +95,19 @@ p {
 	margin-bottom: 50px;
 }
 /* Testimonial end */
+
+/* Footer */
+footer {
+	background-color: #282531;
+	color: white;
+	padding: 40px 10px 10px;
+}
+
+#footer ul li {
+	list-style: none;
+}
+
+#footer ul li a {
+	color: white;
+}
+/* Footer ends */
