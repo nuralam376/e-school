@@ -52,6 +52,8 @@ p {
 	padding: 20px;
 	margin: 5px;
 	border-radius: 10px;
+	transition: all 0.5s ease;
+	transition-property: box-shadow, background-color, font-size;
 }
 
 .icon:hover {
@@ -88,7 +90,7 @@ p {
 
 #testimonial {
 	width: 60%;
-	margin: 50px auto;
+	margin: 100px auto;
 }
 
 #testimonial h2 {
@@ -96,6 +98,15 @@ p {
 	margin-bottom: 50px;
 }
 /* Testimonial end */
+
+/* Contact */
+
+#contact {
+	background-color: #f0fff0;
+	padding: 50px;
+}
+
+/* Contact ends */
 
 /* Footer */
 footer {
